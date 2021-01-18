@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # RESTful API Design with Node, Express, and MongoDB [Video]
 This is the code repository for [RESTful API Design with Node, Express, and MongoDB [Video]](https://www.packtpub.com/application-development/restful-api-design-node-express-and-mongodb-video?utm_source=github&utm_medium=repository&utm_campaign=9781838642723), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
